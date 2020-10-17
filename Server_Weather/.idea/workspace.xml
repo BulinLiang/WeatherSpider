@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0920ecc5-615f-491f-ae82-9115ff42888f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="weather_quality: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YgjJfRanofRj8PH1sVzntsdbic" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Graduation_project\Weather_Spider\Weather_Spider\spiders" />
+      <recent name="D:\Graduation_project\Weather_Spider\Weather_Spider\view" />
+      <recent name="D:\Graduation_project\Weather_Spider\Weather_Spider" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Weather_Spider_\Weather_Spider\icon" />
+      <recent name="C:\Users\Administrator\Desktop\Weather_Spider_\Weather_Spider\spiders" />
+      <recent name="D:\Graduation_project\Weather_Spider\Weather_Spider\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tcpServer (3)">
+    <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather_Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Client_MainWindow/view" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Client_MainWindow/view/MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchSQL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather_Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weather_Spider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weather_Spider/spiders/SearchSQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcpServer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather_Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weather_Spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weather_Spider/tcpServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather_Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weather_Spider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weather_Spider/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_temperature" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Weather_Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weather_Spider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weather_Spider/spiders/weather_temperature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tcpServer (3)" />
+        <item itemvalue="Python.weather_temperature" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.SearchSQL" />
+        <item itemvalue="Python.MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0920ecc5-615f-491f-ae82-9115ff42888f" name="Default Changelist" comment="" />
+      <created>1578204187441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578204187441</updated>
+      <workItem from="1578204197794" duration="14180000" />
+      <workItem from="1578316742950" duration="4673000" />
+      <workItem from="1578322947670" duration="9020000" />
+      <workItem from="1578407271963" duration="6738000" />
+      <workItem from="1578494209391" duration="7211000" />
+      <workItem from="1578930746353" duration="3241000" />
+      <workItem from="1578935257198" duration="346000" />
+      <workItem from="1579016879435" duration="1944000" />
+      <workItem from="1579101402850" duration="6728000" />
+      <workItem from="1579188812235" duration="1795000" />
+      <workItem from="1579365394906" duration="1698000" />
+      <workItem from="1579414774582" duration="7536000" />
+      <workItem from="1579445379562" duration="3494000" />
+      <workItem from="1579530272985" duration="6206000" />
+      <workItem from="1579785672655" duration="2038000" />
+      <workItem from="1580112857667" duration="22024000" />
+      <workItem from="1580185762944" duration="920000" />
+      <workItem from="1580442153392" duration="16334000" />
+      <workItem from="1580530620981" duration="14346000" />
+      <workItem from="1580624087898" duration="21735000" />
+      <workItem from="1580707859414" duration="26360000" />
+      <workItem from="1580796747575" duration="13099000" />
+      <workItem from="1580981236697" duration="13780000" />
+      <workItem from="1581051565417" duration="1230000" />
+      <workItem from="1581069091534" duration="772000" />
+      <workItem from="1581074350322" duration="10230000" />
+      <workItem from="1581143157061" duration="20529000" />
+      <workItem from="1581208811941" duration="15008000" />
+      <workItem from="1581232373255" duration="16888000" />
+      <workItem from="1581300488103" duration="24514000" />
+      <workItem from="1581350047362" duration="1207000" />
+      <workItem from="1581414963357" duration="10379000" />
+      <workItem from="1581430510423" duration="4326000" />
+      <workItem from="1581465310099" duration="10686000" />
+      <workItem from="1581582643284" duration="1295000" />
+      <workItem from="1581584552729" duration="2193000" />
+      <workItem from="1581597188204" duration="9087000" />
+      <workItem from="1581652470552" duration="10248000" />
+      <workItem from="1581756890387" duration="13794000" />
+      <workItem from="1581834704314" duration="10538000" />
+      <workItem from="1582075427195" duration="25689000" />
+      <workItem from="1582170376924" duration="29497000" />
+      <workItem from="1582247759564" duration="31709000" />
+      <workItem from="1582335708749" duration="11359000" />
+      <workItem from="1582376270681" duration="2698000" />
+      <workItem from="1582434920887" duration="30988000" />
+      <workItem from="1582471769094" duration="1291000" />
+      <workItem from="1582511455767" duration="22429000" />
+      <workItem from="1582603149809" duration="15279000" />
+      <workItem from="1582699630516" duration="4220000" />
+      <workItem from="1582770464670" duration="14097000" />
+      <workItem from="1583048645841" duration="6015000" />
+      <workItem from="1583224552999" duration="2873000" />
+      <workItem from="1583371117554" duration="3871000" />
+      <workItem from="1583477439494" duration="17276000" />
+      <workItem from="1583740490879" duration="6274000" />
+      <workItem from="1583804651955" duration="5433000" />
+      <workItem from="1583832583168" duration="2419000" />
+      <workItem from="1583890513968" duration="608000" />
+      <workItem from="1583891287106" duration="14819000" />
+      <workItem from="1583976456834" duration="9185000" />
+      <workItem from="1584007006223" duration="770000" />
+      <workItem from="1584062930874" duration="10296000" />
+      <workItem from="1584150169253" duration="25759000" />
+      <workItem from="1584323060510" duration="3436000" />
+      <workItem from="1584327852884" duration="23670000" />
+      <workItem from="1584933720743" duration="9947000" />
+      <workItem from="1585034471388" duration="8017000" />
+      <workItem from="1585044274094" duration="410000" />
+      <workItem from="1585099642164" duration="21515000" />
+      <workItem from="1585130405365" duration="203000" />
+      <workItem from="1585186751132" duration="2012000" />
+      <workItem from="1585204021705" duration="439000" />
+      <workItem from="1585204507941" duration="3667000" />
+      <workItem from="1585210114909" duration="2345000" />
+      <workItem from="1585214817101" duration="167000" />
+      <workItem from="1585215064182" duration="1486000" />
+      <workItem from="1585275843140" duration="419000" />
+      <workItem from="1585276423082" duration="905000" />
+      <workItem from="1585277437617" duration="4738000" />
+      <workItem from="1585365367279" duration="2891000" />
+      <workItem from="1585372022117" duration="2276000" />
+      <workItem from="1585622262088" duration="19165000" />
+      <workItem from="1585709290073" duration="5352000" />
+      <workItem from="1585728133755" duration="1418000" />
+      <workItem from="1585731591870" duration="9202000" />
+      <workItem from="1585818434111" duration="709000" />
+      <workItem from="1585823039307" duration="906000" />
+      <workItem from="1585878879437" duration="2991000" />
+      <workItem from="1586247838599" duration="185000" />
+      <workItem from="1586310802506" duration="4312000" />
+      <workItem from="1586316651359" duration="495000" />
+      <workItem from="1586332727562" duration="674000" />
+      <workItem from="1586508384031" duration="794000" />
+      <workItem from="1589342740075" duration="53000" />
+      <workItem from="1589346561919" duration="1094000" />
+      <workItem from="1590404760953" duration="871000" />
+      <workItem from="1590413941874" duration="1520000" />
+      <workItem from="1590415705239" duration="1737000" />
+      <workItem from="1590418824810" duration="1650000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020-2-12 更新">
+      <created>1581465431341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581465431341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_quxiantu_Test - 2020.02.14 at 12h 53m 39s.xml">
+      <configuration name="pytest for test.quxiantu.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_quxiantu_py - 2020.02.14 at 12h 55m 01s.xml">
+      <configuration name="pytest in quxiantu.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_quxiantu_py - 2020.02.14 at 12h 55m 26s.xml">
+      <configuration name="pytest in quxiantu.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020-2-12 更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-2-12 更新" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585623214806">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state x="365" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1600.1094@0.34.1600.1094" timestamp="1585623214806" />
+    <state x="651" y="354" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585204099254">
+      <screen x="70" y="27" width="1530" height="1173" />
+    </state>
+    <state x="651" y="354" width="424" height="491" key="FileChooserDialogImpl/70.27.1530.1173@70.27.1530.1173" timestamp="1585204099254" />
+    <state width="1536" height="337" key="GridCell.Tab.0.bottom" timestamp="1586315868172">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.0.bottom/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868172" />
+    <state width="1476" height="258" key="GridCell.Tab.0.bottom/70.27.1530.1173@70.27.1530.1173" timestamp="1585287958493" />
+    <state width="1536" height="337" key="GridCell.Tab.0.center" timestamp="1586315868171">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.0.center/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868171" />
+    <state width="1476" height="258" key="GridCell.Tab.0.center/70.27.1530.1173@70.27.1530.1173" timestamp="1585287958490" />
+    <state width="1536" height="337" key="GridCell.Tab.0.left" timestamp="1586315868170">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.0.left/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868170" />
+    <state width="1476" height="258" key="GridCell.Tab.0.left/70.27.1530.1173@70.27.1530.1173" timestamp="1585287958484" />
+    <state width="1536" height="337" key="GridCell.Tab.0.right" timestamp="1586315868172">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.0.right/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868172" />
+    <state width="1476" height="258" key="GridCell.Tab.0.right/70.27.1530.1173@70.27.1530.1173" timestamp="1585287958492" />
+    <state width="1536" height="337" key="GridCell.Tab.1.bottom" timestamp="1586315868175">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.1.bottom/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868175" />
+    <state width="1476" height="383" key="GridCell.Tab.1.bottom/70.27.1530.1173@70.27.1530.1173" timestamp="1585286227364" />
+    <state width="1536" height="337" key="GridCell.Tab.1.center" timestamp="1586315868174">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.1.center/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868174" />
+    <state width="1476" height="383" key="GridCell.Tab.1.center/70.27.1530.1173@70.27.1530.1173" timestamp="1585286227363" />
+    <state width="1536" height="337" key="GridCell.Tab.1.left" timestamp="1586315868173">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.1.left/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868173" />
+    <state width="1476" height="383" key="GridCell.Tab.1.left/70.27.1530.1173@70.27.1530.1173" timestamp="1585286227361" />
+    <state width="1536" height="337" key="GridCell.Tab.1.right" timestamp="1586315868174">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state width="1536" height="337" key="GridCell.Tab.1.right/0.34.1600.1094@0.34.1600.1094" timestamp="1586315868174" />
+    <state width="1476" height="383" key="GridCell.Tab.1.right/70.27.1530.1173@70.27.1530.1173" timestamp="1585286227364" />
+    <state x="298" y="216" width="1125" height="912" key="SettingsEditor" timestamp="1586510425157">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state x="298" y="216" width="1125" height="912" key="SettingsEditor/0.34.1600.1094@0.34.1600.1094" timestamp="1586510425157" />
+    <state x="355" y="225" width="1037" height="737" key="SettingsEditor/70.27.1530.1173@70.27.1530.1173" timestamp="1585204103083" />
+    <state x="666" y="432" width="455" height="326" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589346898405">
+      <screen x="0" y="34" width="1600" height="1094" />
+    </state>
+    <state x="666" y="432" width="455" height="326" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.34.1600.1094@0.34.1600.1094" timestamp="1589346898405" />
+    <state x="707" y="454" width="375" height="326" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/70.27.1530.1173@70.27.1530.1173" timestamp="1585207602725" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="app" />
+        <watch expression="app" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Weather_Spider_$SearchSQL.coverage" NAME="SearchSQL Coverage Results" MODIFIED="1585123282537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$testLIst.coverage" NAME="testLIst Coverage Results" MODIFIED="1584328292682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$testLIst__1_.coverage" NAME="testLIst (1) Coverage Results" MODIFIED="1582519386228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Server_Weather$weather_temperature.coverage" NAME="weather_temperature Coverage Results" MODIFIED="1590415917343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$SearchSQL.coverage" NAME="SearchSQL Coverage Results" MODIFIED="1582285529248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1580741972209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$RightWidget_0.coverage" NAME="RightWidget_0 Coverage Results" MODIFIED="1582603323835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$pytest_in_quxiantu_py.coverage" NAME="pytest in quxiantu.py Coverage Results" MODIFIED="1581656123460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$test.coverage" NAME="test Coverage Results" MODIFIED="1583050452992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$weather_days.coverage" NAME="weather_days Coverage Results" MODIFIED="1585119144990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Server_Weather$test.coverage" NAME="test Coverage Results" MODIFIED="1590415896617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$scrollBar.coverage" NAME="scrollBar Coverage Results" MODIFIED="1584174811357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/WebEngineView" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1581317439201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$pyecharts.coverage" NAME="pyecharts Coverage Results" MODIFIED="1582455807542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$testClient.coverage" NAME="testClient Coverage Results" MODIFIED="1585035345299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather_old.coverage" NAME="xm_weather_old Coverage Results" MODIFIED="1580482379399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$tcpServer__1_.coverage" NAME="tcpServer (1) Coverage Results" MODIFIED="1585122295912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/icon" />
+    <SUITE FILE_PATH="coverage/Server_Weather$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1585130511136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Client_MainWindow/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$testLIst_old.coverage" NAME="testLIst_old Coverage Results" MODIFIED="1582523131184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather__2_.coverage" NAME="xm_weather (2) Coverage Results" MODIFIED="1580538518083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$pyechartsWeb.coverage" NAME="pyechartsWeb Coverage Results" MODIFIED="1584338546005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/WebEngineView" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$CityButton.coverage" NAME="CityButton Coverage Results" MODIFIED="1581243718436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1583054059946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather1__1_.coverage" NAME="xm_weather1 (1) Coverage Results" MODIFIED="1581243021260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$SearchSQL__1_.coverage" NAME="SearchSQL (1) Coverage Results" MODIFIED="1580720940406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$listWindows.coverage" NAME="listWindows Coverage Results" MODIFIED="1582446426096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$tcpServer__2_.coverage" NAME="tcpServer (2) Coverage Results" MODIFIED="1585130162615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/icon" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$testLIst.coverage" NAME="testLIst Coverage Results" MODIFIED="1582795717993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Server_Weather$tcpServer__3_.coverage" NAME="tcpServer (3) Coverage Results" MODIFIED="1590420177238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$tcpServer.coverage" NAME="tcpServer Coverage Results" MODIFIED="1585130020204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider__1_$testLIst.coverage" NAME="testLIst Coverage Results" MODIFIED="1583481598142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$LeftTabWidget.coverage" NAME="LeftTabWidget Coverage Results" MODIFIED="1582523137346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$pytest_for_test_quxiantu_Test.coverage" NAME="pytest for test.quxiantu.Test Coverage Results" MODIFIED="1581656002063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$tcpClient.coverage" NAME="tcpClient Coverage Results" MODIFIED="1585122290760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather.coverage" NAME="xm_weather Coverage Results" MODIFIED="1582459968696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather1.coverage" NAME="xm_weather1 Coverage Results" MODIFIED="1580630382345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$listWindows.coverage" NAME="listWindows Coverage Results" MODIFIED="1583907267168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$LeftTabWidget.coverage" NAME="LeftTabWidget Coverage Results" MODIFIED="1583907273299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/test" />
+    <SUITE FILE_PATH="coverage/Weather_Spider__1_$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1583890662610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Server_Weather$SearchSQL.coverage" NAME="SearchSQL Coverage Results" MODIFIED="1585636078050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$RightWidget.coverage" NAME="RightWidget Coverage Results" MODIFIED="1582526691857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$xm_weather__1_.coverage" NAME="xm_weather (1) Coverage Results" MODIFIED="1580476824818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1585120007674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$TodayButton.coverage" NAME="TodayButton Coverage Results" MODIFIED="1581318391254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider__1_$Ui_MainWindow.coverage" NAME="Ui_MainWindow Coverage Results" MODIFIED="1583833537420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1584168248929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$LeftTableWidget.coverage" NAME="LeftTableWidget Coverage Results" MODIFIED="1583990862284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/WebEngineView" />
+    <SUITE FILE_PATH="coverage/Weather_Spider__1_$weather_times.coverage" NAME="weather_times Coverage Results" MODIFIED="1583572551311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$weather_temperature.coverage" NAME="weather_temperature Coverage Results" MODIFIED="1581171230958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/spiders" />
+    <SUITE FILE_PATH="coverage/Weather_Spider_$Ui_MainWindow.coverage" NAME="Ui_MainWindow Coverage Results" MODIFIED="1584071354110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+    <SUITE FILE_PATH="coverage/Weather_Spider$Ui_MainWindow.coverage" NAME="Ui_MainWindow Coverage Results" MODIFIED="1582526144771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weather_Spider/view" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

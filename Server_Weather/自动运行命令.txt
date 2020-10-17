@@ -1,0 +1,7 @@
+crontab -e 编辑自动运行命令
+service cron start 开启cron自动脚本
+service cron status 查看状态
+service cron stop 停止
+
+运行sh脚本
+sh  文件名.sh
